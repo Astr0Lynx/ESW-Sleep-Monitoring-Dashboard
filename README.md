@@ -183,10 +183,16 @@ Modify the `SleepAnalyzer` class in `thingspeak.js` to adjust:
 - Analysis logic
 - Conclusion generation
 
+## Team
+
+Developed as part of the Embedded Systems Workshop (ESW) course.
+
+**Team Members:**
+- Guntesh Singh
+- Avani Shukla
+- Khushi Sharma
+- Nikhith Vasishta
+
 ## License
 
 This project is for educational purposes (ESW course).
-
-## Support
-
-For issues or questions, please contact the development team or refer to the course materials.
